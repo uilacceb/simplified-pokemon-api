@@ -30347,5 +30347,89 @@
     "ex": "No",
     "artist": "Yukiko Baba",
     "type": "Colorless"
+  },
+    {
+    "id": "pb-018",
+    "name": "Heliolisk",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_018_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Sumiyoshi Kizuki",
+    "type": "Lightning"
+  },
+  {
+    "id": "pb-019",
+    "name": "Buneary",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_019_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "saino misaki",
+    "type": "Colorless"
+  },
+  {
+    "id": "pb-020",
+    "name": "Charmeleon",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "80",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_020_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shiburingaru",
+    "type": "Fire"
+  },
+  {
+    "id": "pb-021",
+    "name": "Onix",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "100",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_021_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Hitoshi Ariga",
+    "type": "Fighting"
+  },
+  {
+    "id": "pb-022",
+    "name": "Hawlucha",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_022_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Teeziro",
+    "type": "Fighting"
+  },
+  {
+    "id": "pb-023",
+    "name": "Genesect",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "110",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_023_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Anesaki Dynamic",
+    "type": "Metal"
+  },
+  {
+    "id": "pb-024",
+    "name": "Mega Latios ex",
+    "rarity": "◊◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "180",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_024_EN_SM.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA CG Works",
+    "type": "Unknown Type"
   }
 ]
