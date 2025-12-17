@@ -30264,18 +30264,6 @@
     "artist": "Aya Kusube",
     "type": "Colorless"
   },
-    {
-    "id": "b1-012",
-    "name": "Breloom",
-    "rarity": "◊◊",
-    "pack": "Shared(Mega Rising (B1) – Limitless TCG Pocket Database)",
-    "health": "100",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_012_EN_SM.webp",
-    "fullart": "No",
-    "ex": "No",
-    "artist": "Mizue",
-    "type": "Grass"
-  },
   {
     "id": "pb-012",
     "name": "Ditto",
@@ -30313,18 +30301,6 @@
     "type": "Fire"
   },
   {
-    "id": "b1-014",
-    "name": "Simisage",
-    "rarity": "◊",
-    "pack": "Shared(Mega Rising (B1) – Limitless TCG Pocket Database)",
-    "health": "100",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_014_EN_SM.webp",
-    "fullart": "No",
-    "ex": "No",
-    "artist": "tetsuya koizumi",
-    "type": "Grass"
-  },
-  {
     "id": "pb-014",
     "name": "Magikarp",
     "rarity": "◊",
@@ -30335,18 +30311,6 @@
     "ex": "No",
     "artist": "sui",
     "type": "Water"
-  },
-  {
-    "id": "b1-015",
-    "name": "Cottonee",
-    "rarity": "◊",
-    "pack": "Shared(Mega Rising (B1) – Limitless TCG Pocket Database)",
-    "health": "50",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_015_EN_SM.webp",
-    "fullart": "No",
-    "ex": "No",
-    "artist": "Yuka Tanaka",
-    "type": "Grass"
   },
   {
     "id": "pb-015",
@@ -30361,18 +30325,6 @@
     "type": "Lightning"
   },
   {
-    "id": "b1-016",
-    "name": "Whimsicott ex",
-    "rarity": "◊◊◊◊",
-    "pack": "Shared(Mega Rising (B1) – Limitless TCG Pocket Database)",
-    "health": "140",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_016_EN_SM.webp",
-    "fullart": "No",
-    "ex": "Yes",
-    "artist": "PLANETA CG Works",
-    "type": "Grass"
-  },
-  {
     "id": "pb-016",
     "name": "Krookodile",
     "rarity": "◊◊◊",
@@ -30383,18 +30335,6 @@
     "ex": "No",
     "artist": "match",
     "type": "Fighting"
-  },
-  {
-    "id": "b1-017",
-    "name": "Petilil",
-    "rarity": "◊",
-    "pack": "Shared(Mega Rising (B1) – Limitless TCG Pocket Database)",
-    "health": "60",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_017_EN_SM.webp",
-    "fullart": "No",
-    "ex": "No",
-    "artist": "Naoki Saito",
-    "type": "Grass"
   },
   {
     "id": "pb-017",
