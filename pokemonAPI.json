@@ -30277,18 +30277,6 @@
     "type": "Colorless"
   },
   {
-    "id": "b1-013",
-    "name": "Pansage",
-    "rarity": "◊",
-    "pack": "Shared(Mega Rising (B1) – Limitless TCG Pocket Database)",
-    "health": "60",
-    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/B1/B1_013_EN_SM.webp",
-    "fullart": "No",
-    "ex": "No",
-    "artist": "Jerky",
-    "type": "Grass"
-  },
-  {
     "id": "pb-013",
     "name": "Arcanine",
     "rarity": "◊",
