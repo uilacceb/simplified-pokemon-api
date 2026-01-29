@@ -33229,5 +33229,101 @@
     "ex": "Yes",
     "artist": "PLANETA CG Works",
     "type": "Unknown Type"
+  },
+    {
+    "id": "pb-025",
+    "name": "Jirachi",
+    "rarity": "☆",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "50",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_025_EN_SM.webp",
+    "fullart": "Yes",
+    "ex": "No",
+    "artist": "Rond",
+    "type": "Psychic"
+  },
+  {
+    "id": "pb-026",
+    "name": "Mudkip",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_026_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shigenori Negishi",
+    "type": "Water"
+  },
+  {
+    "id": "pb-027",
+    "name": "Plusle",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_027_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Yuka Morii",
+    "type": "Lightning"
+  },
+  {
+    "id": "pb-028",
+    "name": "Ralts",
+    "rarity": "◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_028_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Hajime Kusajima",
+    "type": "Psychic"
+  },
+  {
+    "id": "pb-029",
+    "name": "Mega Medicham ex",
+    "rarity": "◊◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "180",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_029_EN_SM.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "PLANETA CG Works",
+    "type": "Fighting"
+  },
+  {
+    "id": "pb-030",
+    "name": "Tornadus",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "90",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_030_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shigenori Negishi",
+    "type": "Colorless"
+  },
+  {
+    "id": "pb-031",
+    "name": "Cinderace",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "130",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_031_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Shin Nagasawa",
+    "type": "Fire"
+  },
+  {
+    "id": "pb-032",
+    "name": "Alolan Vulpix",
+    "rarity": "◊◊◊",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_032_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "nagimiso",
+    "type": "Water"
   }
 ]
