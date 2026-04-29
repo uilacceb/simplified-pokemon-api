@@ -39205,5 +39205,101 @@
     "ex": "No",
     "artist": "Kouki Saitou",
     "type": "Darkness"
+  },
+  {
+    "id": "pb-041",
+    "name": "Chien-Pao ex",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "130",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_041_EN_SM.webp",
+    "fullart": "No",
+    "ex": "Yes",
+    "artist": "aky CG Works",
+    "type": "Water"
+  },
+  {
+    "id": "pb-042",
+    "name": "Slowpoke",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_042_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Yoshimi Miyoshi",
+    "type": "Water"
+  },
+  {
+    "id": "pb-043",
+    "name": "Electrike",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_043_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Miki Tanaka",
+    "type": "Lightning"
+  },
+  {
+    "id": "pb-044",
+    "name": "Varoom",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_044_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Kouki Saitou",
+    "type": "Metal"
+  },
+  {
+    "id": "pb-045",
+    "name": "Haxorus",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "150",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_045_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Uta",
+    "type": "Unknown Type"
+  },
+  {
+    "id": "pb-046",
+    "name": "Chatot",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "70",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_046_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "0313",
+    "type": "Colorless"
+  },
+  {
+    "id": "pb-047",
+    "name": "Gastly",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "60",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_047_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "kodama",
+    "type": "Darkness"
+  },
+  {
+    "id": "pb-048",
+    "name": "Wigglytuff",
+    "rarity": "",
+    "pack": "Shared(Promo-B – Limitless TCG Pocket Database)",
+    "health": "110",
+    "image": "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/pocket/P-B/P-B_048_EN_SM.webp",
+    "fullart": "No",
+    "ex": "No",
+    "artist": "Mizue",
+    "type": "Colorless"
   }
 ]
